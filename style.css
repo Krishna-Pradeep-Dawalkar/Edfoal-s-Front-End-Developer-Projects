@@ -1,0 +1,364 @@
+body{
+    background-color:rgb(0,0,0);
+    background-image: url(background.jpg);
+    
+    background-size: contain;
+    background-attachment: fixed;
+    border-color:green;
+}
+#header1{
+    
+    padding-left:27%;
+    padding-top:5px;
+    padding-bottom:5px;
+    
+}
+p{
+    color:white;
+}
+body{
+    color:white;
+}
+head{
+    color:white;
+}
+
+a{
+    color:blue;
+}
+#type{
+    color:yellow;
+}
+.greentext{
+    color:chartreuse;
+    font-style: italic;
+    font-size: 20px;
+}
+#header1{
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+.heyy{
+    text-decoration: underline;
+}
+form{
+   
+    color:white;
+}
+hr{
+    color:green;
+}
+#brdr{
+    height: 150px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    margin-right:60%;
+    font-size: 15px;
+    font-family: 'Fira Sans', sans-serif;
+    padding:0%;
+    cursor: not-allowed;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+   
+    
+}
+#brd1{
+    height: 150px;
+    width:850px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    font-size: 15px;
+    font-family: 'Fira Sans', sans-serif;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+    padding: 5px;
+    height: auto;
+    
+}
+#local{
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    margin-right:60%;
+    font-family: 'Heebo', sans-serif;
+    cursor: not-allowed;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+}
+
+#brd{
+    width:500px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+    position:absolute;
+    right:2px;
+    top: 690px;
+    padding:1px;
+}
+
+#div1{
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+}
+#div2{
+    width:1070px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    cursor:grab;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+}
+#div3{
+    width:400px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+    position:absolute;
+    right:2px;
+    top:1200px;
+
+}
+#div4{
+    width:610px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+    height: auto;
+}
+#div5{
+    width:610px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+    position:absolute;
+    right:2px;
+    top:1878px;
+    height: auto;
+    
+}
+@keyframes animate{
+    from{ }
+}
+#div6{
+    width:910px;
+    border-style: solid ;
+    border-color: green;
+    border-radius: 10px;
+    border-width :2px;
+    background-color:black;
+    color:rgba(0, 153, 255, 0.849);
+    box-shadow:8px 8px 12px rgb(76, 75, 75);
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+
+}
+#header1{
+    text-shadow: 3px -7px 6px rgb(134, 134, 3);
+}
+a:link{
+  color:violet;
+}
+a:visited{
+color:rgb(11, 71, 238);
+}
+a:hover{
+    color:orange;
+
+}
+a:active{
+    color:red;
+}
+h4{
+    font-style:italic;
+    font-weight:bold;
+    font-size: 20px;
+    color:chartreuse;
+}
+.cpt{
+    font-style:italic;
+    font-size:18px;
+    font-weight:bold;
+    color:chartreuse;
+}
+#type{
+    font-style:italic;
+    font-size:18px;
+    font-weight:bold;
+    color:chartreuse;
+}
+img:hover{
+    opacity:0.8;
+    
+}
+#imj{
+    filter:invert(100%);
+    filter:hue-rotate(65deg);
+    position: absolute;
+     right:5px;
+    top: 270px; 
+  
+}
+#ul1{
+    list-style-image: url("arrow\ \(1\).png");
+    color:rgb(163, 86, 235);
+}
+caption{
+border: 3px solid blueviolet;    
+
+}
+th{
+    height:30px;
+    color:blueviolet;
+    padding: 5px;
+    text-align: center;
+}
+td{
+    color:rgba(0, 153, 255, 0.849);
+    height:25px;
+    padding: 5px;
+    text-align: center;
+}
+#imj{
+    border: 1px solid red;
+    object-fit: fill;
+}
+#brdr::first-letter{
+    font-size: 20px;
+}
+::selection{
+    color:cornsilk;
+    background: blueviolet;
+}
+#linked{
+    position:fixed;
+    bottom:10px;
+    right:10px;
+}
+#ul2{
+    background-color:black;
+    list-style-type: none;
+    overflow: auto;
+}
+.li1{
+    color:white;
+    text-decoration:italic;
+    float:left;
+    padding: 10px 35px;
+    font-size: 25px;
+    font-weight:bold;
+}
+.anch{
+    text-decoration: none;
+    background-color: black;
+    color:green;
+    padding: 10px 20px;
+}
+#frm{
+    color:white;
+    background-image: linear-gradient(to right bottom, black ,rgb(34, 33, 33) );
+}
+
+@keyframes animate {
+    0%{background-color: red; border-radius: 0%;}
+    10%{background-color: yellow; border-radius: 10%;}
+    20%{background-color:orange; border-radius: 20%;}
+    30%{background-color:green; border-radius: 30%;}
+    40%{background-color:blue; border-radius: 40%;}
+    50%{background-color:blueviolet; border-radius: 50%;}
+    60%{background-color: blue; border-radius: 40%;}
+    70%{background-color:green; border-radius: 30%;}
+    80%{background-color: orange; border-radius: 20%;}
+    90%{background-color: yellow; border-radius: 10%;}
+    100%{background-color: red; border-radius: 0%;}
+}
+#animate1{
+    width:100px;
+    height:100px;
+    background-color: red;
+    animation-name: animate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position:absolute;
+    top:30px;
+    left:20px;
+ }
+ #animate2{
+    width:100px;
+    height:100px;
+    background-color: red;
+    animation-name: animate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position:absolute;
+    top:30px;
+    right:20px;
+ }
+@media screen and (max-width:400px) {
+    img{
+        width:100%;
+        height:auto;
+    }
+   video{
+       width:100%;
+       height:auto;
+   }    
+}
+
+input{
+    color:white;
+    background-color: black;
+}
+textarea{
+    background-color: black;
+    color:white;
+}
+select{
+    background-color: black;
+    color:white;
+}
+a[href="https://www.linkedin.com/in/krishna-dawalkar-8048911b1/"]{
+    font-size:25px;
+    font-weight: bolder;
+}
